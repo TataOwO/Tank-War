@@ -1,0 +1,70 @@
+{
+    "background": "background.png",
+    "preview": "unknown.png",
+    "Mapsize": 26,
+    "mapBlocks": {
+        "brick": {
+            "image": "brick.png",
+            "size": [
+                1,
+                1
+            ],
+            "X": null,
+            "Y": null
+        },
+        "iron": {
+            "image": "iron.png",
+            "size": [
+                1,
+                1
+            ],
+            "X": null,
+            "Y": null
+        },
+        "river": {
+            "image": "river1.png",
+            "size": [
+                1,
+                1
+            ],
+            "X": null,
+            "Y": null
+        },
+        "ice": {
+            "image": "ice2.png",
+            "size": [
+                1,
+                1
+            ],
+            "X": null,
+            "Y": null
+        },
+        "base": {
+            "image": "home.png",
+            "size": [
+                2,
+                2
+            ],
+            "X": null,
+            "Y": null
+        },
+        "myTank": {
+            "image": "map-myTank.png",
+            "size": [
+                2,
+                2
+            ],
+            "X": [12],
+            "Y": [20]
+        },
+		"enemy": {
+            "image": "map-enemy.png",
+            "size": [
+                2,
+                2
+            ],
+            "X": null,
+            "Y": null
+		}
+    }
+}
