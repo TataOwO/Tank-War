@@ -7,3 +7,6 @@ In JSON folder is where the map data are stored. Map_Editor.py is... as the name
 controls:
 WASD to move
 J to shoot
+
+map editor:
+Simple to use, left click to place, right click to remove, also to save the data and quit it, right click at the right edge of the screen.
