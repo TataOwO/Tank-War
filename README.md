@@ -3,3 +3,7 @@ The idea of the game was from a classical arcade game. I don't like stealing, it
 
 main.py is what you want to run to play the game.
 In JSON folder is where the map data are stored. Map_Editor.py is... as the name, map editor...
+
+controls:
+WASD to move
+J to shoot
