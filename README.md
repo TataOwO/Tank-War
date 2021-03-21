@@ -13,9 +13,9 @@ In JSON folder is where the map data are stored. Map_Editor.py is... as the name
 [Game show case](https://youtu.be/5DkM4hkmJec)
 
 # Game control
-`WASD` to move
-`J` to shoot
-`Mouse scroll` to change maps
+`WASD` to move,
+`J` to shoot,
+`Mouse scroll` to change maps.
 
 # Map Editor
 Simple to use, left click to place, right click to remove. Click at the right edge of the screen to exit map editor and save all data.
